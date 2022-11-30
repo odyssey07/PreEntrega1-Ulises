@@ -1,4 +1,4 @@
-#PreEntrega1-Ulises
+# Generador de contraseñas
 
 Primer pre-entrega del curso de JavaScript de Coderhouse
 
