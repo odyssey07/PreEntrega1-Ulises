@@ -1,4 +1,4 @@
-Generador de contraseñas
+#Generador de contraseñas
 
 Primer pre-entrega del curso de JavaScript de Coderhouse
 
